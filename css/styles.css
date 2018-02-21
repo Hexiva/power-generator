@@ -1,0 +1,89 @@
+body {
+  text-align:center;
+  background-color: #000435;
+  font-family: 'Cinzel', serif;
+  font-weight:bold;
+  color: white;
+}
+
+#box {
+  color: #000435;
+  padding: 20px;
+  display:inline-block;
+  border: 10px solid #c4c9ff;
+  background-color: white;
+  display:none;
+}
+
+#genbutton {
+  font-family: 'Cinzel', serif;
+  margin-top:20px;
+  color: white;
+  padding: 5px;
+  border: 5px solid #c4c9ff;
+  background-color: #000435;
+  font-weight:bold;
+  transition: background-color 1s, color 1s;
+}
+
+#genbutton:hover {
+  font-family: 'Cinzel', serif;
+  margin-top:20px;
+  color: #000435;
+  padding: 5px;
+  border: 5px solid #c4c9ff;
+  background-color: white;
+  font-weight:bold;
+  cursor: pointer;
+}
+
+#powerbutton {
+  margin-top:20px;
+  font-family: 'Cinzel', serif;
+  color: white;
+  padding: 5px;
+  border: 5px solid #c4c9ff;
+  background-color: #000435;
+  font-weight:bold;
+  transition: background-color 1s, color 1s;
+  display:none;
+}
+
+#powerbutton:hover {
+  font-family: 'Cinzel', serif;
+  margin-top:20px;
+  color: #000435;
+  padding: 5px;
+  border: 5px solid #c4c9ff;
+  background-color: white;
+  font-weight:bold;
+  cursor: pointer;
+}
+
+
+#timebutton {
+  margin-top:20px;
+  font-family: 'Cinzel', serif;
+  color: white;
+  padding: 5px;
+  border: 5px solid #c4c9ff;
+  background-color: #000435;
+  font-weight:bold;
+  transition: background-color 1s, color 1s;
+  display:none;
+}
+
+#timebutton:hover {
+  font-family: 'Cinzel', serif;
+  margin-top:20px;
+  color: #000435;
+  padding: 5px;
+  border: 5px solid #c4c9ff;
+  background-color: white;
+  font-weight:bold;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 50px;
+}
